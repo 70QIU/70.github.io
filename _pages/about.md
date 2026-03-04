@@ -26,7 +26,7 @@ Shenzhen, China, 2019-2023
 
 Experience
 ======
-**Back-End Development Engineer Intern** — ByteDance
+**Back-End Development Engineer， Intern** — ByteDance
 
 Shenzhen, China, 2025
 
