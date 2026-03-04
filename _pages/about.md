@@ -13,13 +13,19 @@ My research focuses on **privacy-preserving graph processing for collaborative f
 
 Education
 ======
-**Master’s student in Computer Technology** — Shenzhen University, Shenzhen, China, 2023-present
+**Master’s student in Computer Technology** — Shenzhen University
 
-**BS in Computer Science and Technology** — Shenzhen University, Shenzhen, China, 2019-2023
+Shenzhen, China, 2023-present
+
+**BS in Computer Science and Technology** — Shenzhen University
+
+Shenzhen, China, 2019-2023
 
 Experience
 ======
-**Back-End Development Engineer Intern** — ByteDance, Shenzhen, China, 2025
+**Back-End Development Engineer Intern** — ByteDance
+
+Shenzhen, China, 2025
 
 Publication
 ======
@@ -31,9 +37,12 @@ Honors and Awards
 
 **Grand Prize**, Academic Scholarship
 
-**5th Place**, Tencent Keen AI National Open Competition – Algorithm Engineering Track, 2023
+**5th Place**, Tencent Keen AI National Open Competition – Algorithm Engineering Track
 
-**Parallel Optimization Excellence Award**, the 9th "Intel Cup" Parallel Application Challenge(PAC) 2021
+Shenzhen, China, 2023
+
+**Parallel Optimization Excellence Award**, the 9th "Intel Cup" Parallel Application Challenge(PAC) 
+Zhuhai, China, 2021
 
 Teaching Assistant
 ======
