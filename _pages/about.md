@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my page! I am a Master’s student in Computer Technology at the College of Computer Science and Software Engineering, Shenzhen University. I received my B.S. in Computer Science and Technology from Shenzhen University. My advisors are [Prof. Yuhong Feng](https://csse.szu.edu.cn/pages/user/index?id=578) and [Prof. Amelie Chi Zhou](https://amelieczhou.github.io/).
+Hello, welcome to my page! I am a Master’s student in Computer Technology at the College of Computer Science and Software Engineering, Shenzhen University. 
+I received my B.S. in Computer Science and Technology from Shenzhen University. 
+
+My advisors are [Prof. Yuhong Feng](https://csse.szu.edu.cn/pages/user/index?id=578) and [Prof. Amelie Chi Zhou](https://amelieczhou.github.io/).
 
 My research focuses on **privacy-preserving graph processing for collaborative fraud detection**. I aim to improve detection accuracy and system efficiency under strict privacy constraints by leveraging differential privacy and communication-efficient distributed graph computing. 
 
