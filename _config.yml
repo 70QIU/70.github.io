@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Qiulin Wu(70)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Fighting!"
   location         : "Shenzhen"
-  employer         : "Red Brick University"
+  employer         : "Shenzhen University"
   uri              : # URL
   email            : "wuqiulin2023@email.szu.edu.cn" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
